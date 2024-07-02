@@ -1,2 +1,2 @@
-# traveling-mobile-app-page-demo
+# Traveling-mobile-app-page-demo
 page demos
